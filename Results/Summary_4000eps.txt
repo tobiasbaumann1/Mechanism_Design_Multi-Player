@@ -1,0 +1,576 @@
+args >>> (True, 'exact', (1, 1))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.914518
+
+Final sum of rewards >>> 5.82521627635
+
+Average extra rewards per round >>> 0.589151250864
+
+Final probability of cooperation - stdev >>> 0.00249384
+
+Final sum of rewards - stdev >>> 0.00521421858289
+
+Average extra rewards per round - stdev >>> 0.00850247257834
+
+args >>> (True, 'exact', (1, 1))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 2.76442e-05
+
+Final sum of rewards >>> 2.02099825287
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 6.28878e-06
+
+Final sum of rewards - stdev >>> 0.00226163138683
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (True, 'exact', (1, 1))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 9.30544e-05
+
+Final sum of rewards >>> 2.03859418322
+
+Average extra rewards per round >>> 0.311785318496
+
+Final probability of cooperation - stdev >>> 6.83962e-06
+
+Final sum of rewards - stdev >>> 0.00137736231576
+
+Average extra rewards per round - stdev >>> 0.0184911949944
+
+args >>> (True, 'exact', (-1, 0.5))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.988565
+
+Final sum of rewards >>> 5.99417285978
+
+Average extra rewards per round >>> 0.299383886034
+
+Final probability of cooperation - stdev >>> 0.000925848
+
+Final sum of rewards - stdev >>> 0.000481364962058
+
+Average extra rewards per round - stdev >>> 0.0166123756844
+
+args >>> (True, 'exact', (-1, 0.5))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 0.0417099
+
+Final sum of rewards >>> 5.42722162007
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 0.0169012
+
+Final sum of rewards - stdev >>> 0.0220493990451
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (True, 'exact', (-1, 0.5))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 0.293759
+
+Final sum of rewards >>> 5.51362705588
+
+Average extra rewards per round >>> 0.152966265696
+
+Final probability of cooperation - stdev >>> 0.202965
+
+Final sum of rewards - stdev >>> 0.108732611773
+
+Average extra rewards per round - stdev >>> 0.00918915854827
+
+args >>> (True, 'exact', (1, -1))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.330613
+
+Final sum of rewards >>> 3.32245122138
+
+Average extra rewards per round >>> 0.11070501033
+
+Final probability of cooperation - stdev >>> 0.467532
+
+Final sum of rewards - stdev >>> 1.87012939307
+
+Average extra rewards per round - stdev >>> 0.134157294038
+
+args >>> (True, 'exact', (1, -1))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 4.48542e-05
+
+Final sum of rewards >>> 2.00017941677
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 1.92002e-05
+
+Final sum of rewards - stdev >>> 7.68009741493e-05
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (True, 'exact', (1, -1))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 0.996093
+
+Final sum of rewards >>> 5.98437321438
+
+Average extra rewards per round >>> 0.182372563081
+
+Final probability of cooperation - stdev >>> 0.00031773
+
+Final sum of rewards - stdev >>> 0.00127091675532
+
+Average extra rewards per round - stdev >>> 0.0106641913216
+
+args >>> (True, 'estimated', (1, 1))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 4.20877e-05
+
+Final sum of rewards >>> 2.0260116402
+
+Average extra rewards per round >>> 0.0256588511268
+
+Final probability of cooperation - stdev >>> 9.92432e-06
+
+Final sum of rewards - stdev >>> 0.00287509796702
+
+Average extra rewards per round - stdev >>> 0.00932448579241
+
+args >>> (True, 'estimated', (1, 1))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 2.85848e-05
+
+Final sum of rewards >>> 2.02114767798
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 9.29084e-06
+
+Final sum of rewards - stdev >>> 0.00343383364637
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (True, 'estimated', (1, 1))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 2.44454e-06
+
+Final sum of rewards >>> 2.00606588647
+
+Average extra rewards per round >>> 0.00777017046263
+
+Final probability of cooperation - stdev >>> 1.22982e-06
+
+Final sum of rewards - stdev >>> 0.00166269748916
+
+Average extra rewards per round - stdev >>> 0.00092369884894
+
+args >>> (True, 'estimated', (-1, 0.5))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.0321969
+
+Final sum of rewards >>> 5.46706946551
+
+Average extra rewards per round >>> 0.0515828323265
+
+Final probability of cooperation - stdev >>> 0.013305
+
+Final sum of rewards - stdev >>> 0.0114432450536
+
+Average extra rewards per round - stdev >>> 0.0326515135785
+
+args >>> (True, 'estimated', (-1, 0.5))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 0.0299971
+
+Final sum of rewards >>> 5.46655643214
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 0.0092327
+
+Final sum of rewards - stdev >>> 0.00319981866555
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (True, 'estimated', (-1, 0.5))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 0.00320688
+
+Final sum of rewards >>> 5.49352796112
+
+Average extra rewards per round >>> 0.0366658464322
+
+Final probability of cooperation - stdev >>> 0.00135382
+
+Final sum of rewards - stdev >>> 0.00111080370019
+
+Average extra rewards per round - stdev >>> 0.0191550780121
+
+args >>> (True, 'estimated', (1, -1))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 7.54228e-05
+
+Final sum of rewards >>> 2.00030169107
+
+Average extra rewards per round >>> 0.0117704359591
+
+Final probability of cooperation - stdev >>> 2.32065e-05
+
+Final sum of rewards - stdev >>> 9.28261956442e-05
+
+Average extra rewards per round - stdev >>> 0.00629893076377
+
+args >>> (True, 'estimated', (1, -1))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 3.50271e-05
+
+Final sum of rewards >>> 2.00014010859
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 1.52548e-05
+
+Final sum of rewards - stdev >>> 6.10192540464e-05
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (True, 'estimated', (1, -1))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 2.71392e-06
+
+Final sum of rewards >>> 2.0000108557
+
+Average extra rewards per round >>> 0.00482791999976
+
+Final probability of cooperation - stdev >>> 2.75495e-07
+
+Final sum of rewards - stdev >>> 1.1019810574e-06
+
+Average extra rewards per round - stdev >>> 0.00126365457912
+
+args >>> (False, 'exact', (1, 1))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.986988
+
+Final sum of rewards >>> 5.97389128513
+
+Average extra rewards per round >>> 0.656527401164
+
+Final probability of cooperation - stdev >>> 0.00130142
+
+Final sum of rewards - stdev >>> 0.00262034861468
+
+Average extra rewards per round - stdev >>> 0.0734975924902
+
+args >>> (False, 'exact', (1, 1))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 4.2773e-05
+
+Final sum of rewards >>> 2.02618418262
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 1.16455e-06
+
+Final sum of rewards - stdev >>> 0.000329723509423
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (False, 'exact', (1, 1))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 0.00118965
+
+Final sum of rewards >>> 2.14365039995
+
+Average extra rewards per round >>> 0.37430970493
+
+Final probability of cooperation - stdev >>> 0.000275902
+
+Final sum of rewards - stdev >>> 0.0198500914569
+
+Average extra rewards per round - stdev >>> 0.0395372589164
+
+args >>> (False, 'exact', (-1, 0.5))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.989211
+
+Final sum of rewards >>> 5.99450195855
+
+Average extra rewards per round >>> 0.390951319918
+
+Final probability of cooperation - stdev >>> 0.00146112
+
+Final sum of rewards - stdev >>> 0.000758807205682
+
+Average extra rewards per round - stdev >>> 0.00451951440148
+
+args >>> (False, 'exact', (-1, 0.5))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 0.0493984
+
+Final sum of rewards >>> 5.43989545528
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 0.0150221
+
+Final sum of rewards - stdev >>> 0.018985556492
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (False, 'exact', (-1, 0.5))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 0.331437
+
+Final sum of rewards >>> 5.63198586749
+
+Average extra rewards per round >>> 0.198219285659
+
+Final probability of cooperation - stdev >>> 0.333322
+
+Final sum of rewards - stdev >>> 0.164038943304
+
+Average extra rewards per round - stdev >>> 0.00294200558695
+
+args >>> (False, 'exact', (1, -1))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.991435
+
+Final sum of rewards >>> 5.96574031184
+
+Average extra rewards per round >>> 0.43796085008
+
+Final probability of cooperation - stdev >>> 0.00020958
+
+Final sum of rewards - stdev >>> 0.000838330815179
+
+Average extra rewards per round - stdev >>> 0.0211500361609
+
+args >>> (False, 'exact', (1, -1))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 3.33699e-05
+
+Final sum of rewards >>> 2.00013347964
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 7.8796e-06
+
+Final sum of rewards - stdev >>> 3.15184104821e-05
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (False, 'exact', (1, -1))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 0.996145
+
+Final sum of rewards >>> 5.98458192808
+
+Average extra rewards per round >>> 0.218479590942
+
+Final probability of cooperation - stdev >>> 0.000399375
+
+Final sum of rewards - stdev >>> 0.00159747854639
+
+Average extra rewards per round - stdev >>> 0.000984296514447
+
+args >>> (False, 'estimated', (1, 1))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.513514
+
+Final sum of rewards >>> 5.01441099771
+
+Average extra rewards per round >>> 2.47025232204
+
+Final probability of cooperation - stdev >>> 0.163233
+
+Final sum of rewards - stdev >>> 0.330555969728
+
+Average extra rewards per round - stdev >>> 0.0807055457019
+
+args >>> (False, 'estimated', (1, 1))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 3.88595e-05
+
+Final sum of rewards >>> 2.02500332923
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 5.12927e-06
+
+Final sum of rewards - stdev >>> 0.00168544960415
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (False, 'estimated', (1, 1))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 0.000105978
+
+Final sum of rewards >>> 2.04549513386
+
+Average extra rewards per round >>> 1.41700960151
+
+Final probability of cooperation - stdev >>> 2.77186e-05
+
+Final sum of rewards - stdev >>> 0.00493831159928
+
+Average extra rewards per round - stdev >>> 0.0833047402941
+
+args >>> (False, 'estimated', (-1, 0.5))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.473808
+
+Final sum of rewards >>> 5.60048502872
+
+Average extra rewards per round >>> 2.6476857642
+
+Final probability of cooperation - stdev >>> 0.155019
+
+Final sum of rewards - stdev >>> 0.0884442887164
+
+Average extra rewards per round - stdev >>> 0.371873046229
+
+args >>> (False, 'estimated', (-1, 0.5))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 0.0426113
+
+Final sum of rewards >>> 5.44790751538
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 0.0115741
+
+Final sum of rewards - stdev >>> 0.00513723414321
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (False, 'estimated', (-1, 0.5))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 0.0244482
+
+Final sum of rewards >>> 5.4707083769
+
+Average extra rewards per round >>> 1.12538605125
+
+Final probability of cooperation - stdev >>> 0.0105379
+
+Final sum of rewards - stdev >>> 0.0176955297728
+
+Average extra rewards per round - stdev >>> 0.13776270415
+
+args >>> (False, 'estimated', (1, -1))
+
+mode >>> With_mechanism_design
+
+Final probability of cooperation >>> 0.924007
+
+Final sum of rewards >>> 5.69602845756
+
+Average extra rewards per round >>> 4.7084294901
+
+Final probability of cooperation - stdev >>> 0.049016
+
+Final sum of rewards - stdev >>> 0.19606415652
+
+Average extra rewards per round - stdev >>> 0.25387326414
+
+args >>> (False, 'estimated', (1, -1))
+
+mode >>> No_mechanism_design
+
+Final probability of cooperation >>> 3.9635e-05
+
+Final sum of rewards >>> 2.00015853996
+
+Average extra rewards per round >>> 0.0
+
+Final probability of cooperation - stdev >>> 2.2458e-06
+
+Final sum of rewards - stdev >>> 8.98320967297e-06
+
+Average extra rewards per round - stdev >>> 0.0
+
+args >>> (False, 'estimated', (1, -1))
+
+mode >>> Turning_off
+
+Final probability of cooperation >>> 0.993893
+
+Final sum of rewards >>> 5.97557047519
+
+Average extra rewards per round >>> 2.41141421687
+
+Final probability of cooperation - stdev >>> 0.000349214
+
+Final sum of rewards - stdev >>> 0.00139685553343
+
+Average extra rewards per round - stdev >>> 0.0956433475269
+
